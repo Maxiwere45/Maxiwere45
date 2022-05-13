@@ -1,9 +1,9 @@
 # **HELLO WORLD !**
 - 🙌 I'm @Maxiwere45
 - 👀 I’m interested in **game developpement** and **Video montage**
-- 🌱 I’m currently learning ADOBE AE and PR for visual animation
-- 📫 Contact easier on Discord *Maxiwere#4545*
-- Some stuffs comming soon 🤗 be prepared.
+- 🌱 I’m currently learning ADOBE AE + PR
+- 📫 Contact me on Discord *Maxiwere#4545*
+- Some stuffs comming soon 🤗
 
 ---
 
