@@ -1,4 +1,4 @@
-# **HELLO WORLD !**
+# **HI !**
 - 🙌 I'm @Maxiwere45
 - 👀 I’m interested in **game developpement** and **Video montage**
 - 🌱 I’m currently learning ADOBE AE + PR
