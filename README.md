@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Back-end developer 💻 from France</h3>
 
 - 👀 I’m interested in **Data analysis** and **Software developpement**
-- 🎓 I’m currently learning ORACLE, PL/SQL and JDBC
+- 🎓 I’m currently learning **ORACLE, PL/SQL and JDBC**
 - 📫 Contact me easier <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 ---
