@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">TOP SKILLS</h3>
+<h3 align="center">CODING SKILLS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,git,html,css,vscode,c,java,linux,md,pr,mysql"/>
