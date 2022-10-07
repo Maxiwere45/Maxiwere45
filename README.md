@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in **Data analysis** and **Software developpement**
 - 🎓 I’m currently learning ORACLE, PL/SQL and JDBC
-- 📫 Contact me easier on Discord *Maxiwere#4545*
+- 📫 Contact me easier <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 ---
 
