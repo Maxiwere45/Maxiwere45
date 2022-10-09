@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😉, I'm Amdjad</h1>
 
-<h3 align="center">A passionate Back-end developer 💻 from France</h3>
+<h3 align="center">A passionate IT student 💻 from France</h3>
 
 - 👀 I’m interested in **Data analysis** and **Software developpement**
 - 🎓 I’m currently learning **ORACLE, PL/SQL and JDBC**
