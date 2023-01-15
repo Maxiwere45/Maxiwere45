@@ -13,7 +13,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,git,html,css,vscode,c,java,linux,md,pr,mysql"/>
 </p>
-
----
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxiwere45&show_icons=true&theme=dracula&locale=en" alt="maxiwere45" /></p>
