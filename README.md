@@ -22,4 +22,4 @@ I'm currently focusing on improving my skills in JS, SHELL, and REST API. If you
 
 Below you'll find a list of my coding skills. Thanks for stopping by!
 
-Thank you for taking the time to read my profile. Please feel free to reach out if you have any questions or would like to connect!
+Thank you for taking the time to read my profile. Please feel free to reach out if you have any questions !
