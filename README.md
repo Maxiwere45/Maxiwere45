@@ -11,5 +11,5 @@
 <h3 align="center">CODING SKILLS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,vscode,c,java,linux,md,pr,mysql"/>
+    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,js,vscode,c,java,linux,md,mongodb,bash,mysql"/>
 </p>
