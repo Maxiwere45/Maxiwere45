@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
-- 👀 I’m interested in **Software developpement** and **Astronomy**
+- 🚀 I’m interested in **Software developpement** and **Astronomy**
 - 🎓 I’m currently learning **JS, SHELL and REST API**
-- 📫 Contact me easier <a href="mailto:amdjad.anrifou@gmail.com">here</a>
+- ✉️ Contact me easier <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 ---
 
