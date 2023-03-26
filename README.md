@@ -20,6 +20,6 @@ In addition to my studies, I'm also pursuing my passion for **space news** and *
 
 I'm currently focusing on improving my skills in JS, SHELL, and REST API. If you're interested in collaborating on a project or just want to connect, feel free to reach out to me via email ^^.
 
-Below you'll find a list of my coding skills. Thanks for stopping by!
+Above you'll find a list of my coding skills. Thanks for stopping by!
 
 Thank you for taking the time to read my profile. Please feel free to reach out if you have any questions !
