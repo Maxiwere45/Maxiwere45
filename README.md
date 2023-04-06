@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
 * 🚀 I’m interested in Software development and Astronomy
-* 🎓 I’m currently learning **JS**, **BATCH** and **REST API**
+* 🎓 I’m currently learning **JS**, **BATCH** and **BIG DATA**
 * ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
