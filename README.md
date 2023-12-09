@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
 * 🚀 I’m interested in Software development and Astronomy
-* 🎓 I’m currently learning **JS**, **BATCH** and **BIG DATA**
+* 🎓 I’m currently learning **JS**, **MACHINE LEARNING** and **BIG DATA**
 * ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
@@ -18,7 +18,7 @@ Hey there! Welcome to my profile. I am Amdjad, a passionate IT student from Fran
 
 In addition to my studies, I'm also pursuing my passion for **space news** and **physics** through self-learning.
 
-I'm currently focusing on improving my skills in JS, SHELL, and REST API. If you're interested in collaborating on a project or just want to connect, feel free to reach out to me via email ^^.
+I'm currently focusing on improving my skills in JS, MACHINE LEARNING, AI and API developpement. If you're interested in collaborating on a project or just want to connect, feel free to reach out to me via email or following ^^.
 
 Above you'll find a list of my coding skills. Thanks for stopping by!
 
