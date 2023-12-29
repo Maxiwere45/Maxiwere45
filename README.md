@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
 * 🚀 I’m interested in Software development and Data analysis
-* 🎓 I’m currently learning **JS**, **MACHINE LEARNING** and **BIG DATA**
+* 🎓 I’m currently learning **REACT**, **ANGULAR**, **MACHINE LEARNING** and **BIG DATA**
 * ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
