@@ -18,7 +18,7 @@ Hey there! Welcome to my profile. I am Amdjad, a passionate IT student from Fran
 
 In addition to my studies, I'm also pursuing my passion for **space news** and **physics** through self-learning.
 
-I'm currently focusing on improving my skills in JS, MACHINE LEARNING, AI and API developpement. If you're interested in collaborating on a project or just want to connect, feel free to reach out to me via email or following ^^.
+I'm currently focusing on improving my skills in REACT, ANGULAR, MACHINE LEARNING, AI and API developpement. If you're interested in collaborating on a project or just want to connect, feel free to reach out to me via email or following ^^.
 
 Above you'll find a list of my coding skills. Thanks for stopping by!
 
