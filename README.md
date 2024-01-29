@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,js,vscode,c,java,linux,mongodb,bash,mysql,nodejs,flask"/>
+    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,js,vscode,c,java,linux,mongodb,bash,mysql,nodejs,react"/>
   </a>
 </p>
 Hey there! Welcome to my profile. I am Amdjad, a passionate IT student from France. I love software development and data analysis, and I'm always looking for new challenges and opportunities to learn.
