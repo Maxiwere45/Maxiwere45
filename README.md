@@ -1,8 +1,8 @@
 <h1 align="center">Hi 😉, I'm Amdjad</h1>
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
-* 🚀 I’m interested in Web development and Data analysis
-* 🎓 I’m currently learning **REACT**, **NEXT.JS** and **MACHINE LEARNING**
+* 🚀 I’m interested in Software and Web development
+* 🎓 I’m currently learning **SVELTE 5**, **GraphQL** and **C++**
 * ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,js,vscode,c,java,linux,mongodb,bash,mysql,nodejs,react"/>
+    <img src="https://skillicons.dev/icons?i=py,php,git,html,css,js,svelte,graphql,c,java,linux,mongodb,bash,nodejs,react"/>
   </a>
 </p>
 
