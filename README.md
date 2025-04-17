@@ -2,7 +2,6 @@
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
 * 🚀 I’m interested in Software and Web development
-* 🎓 I’m currently learning **SVELTE 5**, **GraphQL** and **C++**
 * ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
