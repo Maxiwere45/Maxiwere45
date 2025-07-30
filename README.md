@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student 💻 from France</h3>
 
 * 🚀 I’m interested in Software and Web development
-* ✉️ Contact me easily <a href="mailto:amdjad.anrifou@gmail.com">here</a>
+* ✉️ Contact me easily <a href="mailto:amdjad9857@gmail.com">here</a>
 
 <h3 align="center">CODING SKILLS</h3>
 
