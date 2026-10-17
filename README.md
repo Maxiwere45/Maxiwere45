@@ -1,25 +1,40 @@
-<h1 align="center">Hi 😉, I'm Amdjad</h1>
-<h3 align="center">A passionate IT student 💻 from France</h3>
+<h1 align="center">Hey there 👋 I'm Amdjad</h1>
+<h3 align="center">Full Stack dev from Toulouse 🇫🇷 · Building scalable microservice apps, from scratch or from legacy</h3>
 
-* 🚀 I’m interested in Software and Web development
-* ✉️ Contact me easily <a href="mailto:amdjad9857@gmail.com">here</a>
-
-<h3 align="center">CODING SKILLS</h3>
+<p align="center">
+  <a href="mailto:amdjad9857@gmail.com">📫 Say hi</a>
+</p>
 
 ---
 
+### 🧑‍💻 So, who's this guy?
+
+I'm a Full Stack developer who genuinely enjoys the messy parts: untangling old code, designing databases that make sense, and wiring up pipelines that ship things without drama.
+
+- 🏗️ Designing and building **scalable Symfony microservices**, with REST/GraphQL APIs and CI/CD. Most recently by rebuilding a 32k+ config business app from the ground up
+- 🎓 Fresh out of a **Master's in Software, Mobile & IoT Engineering** (YNOV Toulouse)
+- ☸️ Recently moved a monolith onto a **3-node K3s cluster**, with autoscaling, Longhorn storage and Prometheus + Grafana watching over it
+- 🔐 Building side projects in **Go**, like a terminal encryption tool with a 2-of-2 secret sharing scheme (yes, with a pretty TUI)
+- 💼 **Open to full-time opportunities**, let's talk!
+
+### 🌌 When I'm not coding
+
+You'll probably find me reading about space missions or trying to wrap my head around some physics concept I definitely don't fully understand yet.
+
+### 🗣️ Languages (the human kind)
+
+French · English
+
+---
+
+<h3 align="center">🛠️ What I work with</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,symfony,git,fastapi,docker,js,flutter,graphql,c,java,linux,mongodb,bash,nodejs,react"/>
+    <img src="https://skillicons.dev/icons?i=php,symfony,py,go,java,js,ts,react,flutter,dart,graphql,fastapi&perline=12" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,githubactions,prometheus,grafana,linux,bash,git&perline=12" />
   </a>
 </p>
 
-**Hello and welcome to my profile !**
-
-I’m Amdjad, an enthusiastic IT student based in France with a deep passion for software and web development. I’m always eager to take on new challenges and constantly seek opportunities to expand my knowledge.
-
-In addition to my academic pursuits, I’m exploring space news and learning some physics principe, topics that truly fascinate me.
-
-If you’re interested in collaborating on a project or just want to connect, feel free to reach out via email or follow me.
-
-You’ll find a detailed list of my coding expertise below. Thanks for taking the time to visit my profile. Don’t hesitate to get in touch if you have any questions!
+<p align="center"><i>Got a cool project or a weird bug? My inbox is open 😉</i></p>
