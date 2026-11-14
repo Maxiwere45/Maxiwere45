@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack dev from Toulouse 🇫🇷 · Building scalable microservice apps, from scratch or from legacy</h3>
 
 <p align="center">
-  <a href="mailto:amdjad9857@gmail.com">📫 Say hi</a>
+  <a href="mailto:maxiwere45@pm.me">📫 Say hi</a>
 </p>
 
 ---
